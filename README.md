@@ -1,4 +1,8 @@
-#mo-api-java
+# api-manager for mo
+
+This program is designing for iOS application named Mo. That's an intelligent assistant. But Mo failed when we just finished some versions in vertical search. In my opinion, Mo is a good product. But it's not a popular one.
+
+This program named api-manager is charging for managing background APIs of Mo exculdes user system and web background. Mo can do vertical search in many applications or websites such as Zhihu, Taobao, Douban and so on. All of these functions are finished by some APIs mentioned above. What this program do is running these APIs in Docker and supply functional RESTful APIs to a website.
 
 ### Docker Instruction ###
 ```shell
